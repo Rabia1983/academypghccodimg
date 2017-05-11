@@ -1,0 +1,5 @@
+/Users/moonroor/Projects/Battleship/Battleship/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/Battleship/Battleship/bin/Debug/Battleship.exe.mdb
+/Users/moonroor/Projects/Battleship/Battleship/bin/Debug/Battleship.exe
+/Users/moonroor/Projects/Battleship/Battleship/obj/x86/Debug/Battleship.exe
+/Users/moonroor/Projects/Battleship/Battleship/obj/x86/Debug/Battleship.exe.mdb

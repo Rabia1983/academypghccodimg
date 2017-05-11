@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{C6877BDA-BE08-4366-AF4C-E914F8CFF305}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="buzzfed/Program.cs">
+    <Files>
+      <File FileName="buzzfed/Program.cs" Line="111" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.buzzfed PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

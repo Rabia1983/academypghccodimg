@@ -1,0 +1,64 @@
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+
+  <!-- <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script> -->
+  <script>
+  $( function() {
+    $( "#sortable" ).sortable();
+    $( "#sortable" ).disableSelection();
+  } );
+    ////////////////////////////////////// this function for update_order AND update_all_orders 
+    //
+    // $( function() {
+    //     $( "#sortable" ).sortable({
+    //         update: function( event, ui ) {
+    //           let new_order = $( "#sortable" ).sortable('toArray');
+    //           console.log(new_order);
+    //           // for each note
+    //
+    //           $.ajax({
+    //             url: "/notes/update_order",
+    //             method: "POST",
+    //             data: { new_order: new_order.toString() }
+    //           })
+    //           .done(function( html ) {
+    //             console.log("updated all");
+    //           });
+    //            }
+    //       }
+    //     );
+    //     $( "#sortable" ).disableSelection();
+    // } );
+
+
+
+  </script>
+</head>
+<h1>Listing articles</h1>
+ <!-- <div> -->
+  <!-- <table> -->
+  <div id="sortable">
+  <% @postit.each do |postit| %>
+    <div class="panel panel-default">
+      <div class="panel-body">
+    <h3 class="title">Title:</h3>  <div class="info"><%= postit.title %></div>
+    <h3 class="text">Text:</h3>  <div class="info"><%= postit.text %></div>
+      <button><%= link_to 'Show', postit_path(postit) %></button>
+      <button><%= link_to 'Edit', edit_postit_path(postit) %></button>
+    </div>
+</div>
+  <% end %>
+</div>
+  <button class="newpost">
+  <%= link_to 'New postit',new_postit_path %>
+</button>
+<!-- </table> -->
+  <!-- </div> -->
+
+<body>

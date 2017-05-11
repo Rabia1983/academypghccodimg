@@ -1,0 +1,5 @@
+/Users/moonroor/Projects/Braillealpha/Braillealpha/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/Braillealpha/Braillealpha/bin/Debug/Braillealpha.exe.mdb
+/Users/moonroor/Projects/Braillealpha/Braillealpha/bin/Debug/Braillealpha.exe
+/Users/moonroor/Projects/Braillealpha/Braillealpha/obj/x86/Debug/Braillealpha.exe
+/Users/moonroor/Projects/Braillealpha/Braillealpha/obj/x86/Debug/Braillealpha.exe.mdb

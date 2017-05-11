@@ -1,0 +1,8 @@
+/Users/moonroor/Projects/testing/thethirdfile/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/testing/thethirdfile/bin/Debug/thethirdfile.dll.mdb
+/Users/moonroor/Projects/testing/thethirdfile/bin/Debug/thethirdfile.dll
+/Users/moonroor/Projects/testing/thethirdfile/obj/Debug/thethirdfile.dll
+/Users/moonroor/Projects/testing/thethirdfile/obj/Debug/thethirdfile.dll.mdb
+/Users/moonroor/Projects/testing/thethirdfile/bin/Debug/nunit.framework.dll
+/Users/moonroor/Projects/testing/thethirdfile/bin/Debug/libraryfile.dll
+/Users/moonroor/Projects/testing/thethirdfile/bin/Debug/libraryfile.dll.mdb

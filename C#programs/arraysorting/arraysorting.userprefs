@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FBD44608-CAF0-4411-8D5D-C215DC912DC7}|Default">
+  <MonoDevelop.Ide.ItemProperties.arraysorting PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="arraysorting/Program.cs">
+    <Files>
+      <File FileName="arraysorting/Program.cs" Line="32" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

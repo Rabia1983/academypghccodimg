@@ -1,0 +1,15 @@
+/Users/moonroor/Projects/buzzfed/buzzfed/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/buzzfed/buzzfed/bin/Debug/buzzfed.exe.mdb
+/Users/moonroor/Projects/buzzfed/buzzfed/bin/Debug/buzzfed.exe
+/Users/moonroor/Projects/buzzfed/buzzfed/obj/x86/Debug/buzzfed.exe
+/Users/moonroor/Projects/buzzfed/buzzfed/obj/x86/Debug/buzzfed.exe.mdb
+/Users/moonroor/Documents/github/academypghccodimg/Projects/buzzfed/buzzfed/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Documents/github/academypghccodimg/Projects/buzzfed/buzzfed/bin/Debug/buzzfed.exe.mdb
+/Users/moonroor/Documents/github/academypghccodimg/Projects/buzzfed/buzzfed/bin/Debug/buzzfed.exe
+/Users/moonroor/Documents/github/academypghccodimg/Projects/buzzfed/buzzfed/obj/x86/Debug/buzzfed.exe
+/Users/moonroor/Documents/github/academypghccodimg/Projects/buzzfed/buzzfed/obj/x86/Debug/buzzfed.exe.mdb
+/Users/moonroor/Documents/github/academypghccodimg/C#programs/buzzfed/buzzfed/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Documents/github/academypghccodimg/C#programs/buzzfed/buzzfed/bin/Debug/buzzfed.exe.mdb
+/Users/moonroor/Documents/github/academypghccodimg/C#programs/buzzfed/buzzfed/bin/Debug/buzzfed.exe
+/Users/moonroor/Documents/github/academypghccodimg/C#programs/buzzfed/buzzfed/obj/x86/Debug/buzzfed.exe
+/Users/moonroor/Documents/github/academypghccodimg/C#programs/buzzfed/buzzfed/obj/x86/Debug/buzzfed.exe.mdb

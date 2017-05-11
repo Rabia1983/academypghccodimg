@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+  <title> PPCC--Interactive Care Book! </title>
+<link href="style.css" type="text/css" rel="stylesheet">
+</head>
+<body background="http://group2.com/PPCC-Photos/PPCC-Pattern.png">
+  <div class="picture">
+   <img src="http://group2.com/PPCC-Photos/PPCC-Logo-Splash.png" width="250"/>
+</div>
+
+
+<ul class="nav">
+  <li><a class="active" href="#patientname">Patient Name</a></li>
+  <li><a href="#patientdob">Patient Date of Birth</a></li>
+  <li><a href="#familyinfo">Family Info</a> </li>
+  <li><a href="#hospitalinfo">Main Hospital Info</a></li>
+  <li><a href="#hospitalinfo">Main Pharmacy Info</a></li>
+  <li><a href="#doctorlist">Doctor/Specialty</a></li>
+  <li><a href="#schoolinfo">School Info</a></li>
+</ul>
+
+</body>
+</html>

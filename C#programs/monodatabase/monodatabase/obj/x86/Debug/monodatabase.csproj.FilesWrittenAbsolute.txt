@@ -1,0 +1,6 @@
+/Users/moonroor/Projects/monodatabase/monodatabase/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/monodatabase/monodatabase/bin/Debug/example.sqlite
+/Users/moonroor/Projects/monodatabase/monodatabase/bin/Debug/monodatabase.exe.mdb
+/Users/moonroor/Projects/monodatabase/monodatabase/bin/Debug/monodatabase.exe
+/Users/moonroor/Projects/monodatabase/monodatabase/obj/x86/Debug/monodatabase.exe
+/Users/moonroor/Projects/monodatabase/monodatabase/obj/x86/Debug/monodatabase.exe.mdb

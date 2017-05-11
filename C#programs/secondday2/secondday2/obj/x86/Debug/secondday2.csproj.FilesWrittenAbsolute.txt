@@ -1,0 +1,5 @@
+/Users/moonroor/Projects/secondday2/secondday2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/secondday2/secondday2/bin/Debug/secondday2.exe.mdb
+/Users/moonroor/Projects/secondday2/secondday2/bin/Debug/secondday2.exe
+/Users/moonroor/Projects/secondday2/secondday2/obj/x86/Debug/secondday2.exe
+/Users/moonroor/Projects/secondday2/secondday2/obj/x86/Debug/secondday2.exe.mdb

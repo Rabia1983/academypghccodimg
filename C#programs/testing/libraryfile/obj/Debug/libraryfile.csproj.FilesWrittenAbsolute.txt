@@ -1,0 +1,5 @@
+/Users/moonroor/Projects/testing/libraryfile/obj/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/testing/libraryfile/bin/Debug/libraryfile.dll.mdb
+/Users/moonroor/Projects/testing/libraryfile/bin/Debug/libraryfile.dll
+/Users/moonroor/Projects/testing/libraryfile/obj/Debug/libraryfile.dll
+/Users/moonroor/Projects/testing/libraryfile/obj/Debug/libraryfile.dll.mdb

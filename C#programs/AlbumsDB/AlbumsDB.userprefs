@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{E6B90684-7F04-4624-BC0C-8ECD15005272}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AlbumsDB/Program.cs">
+    <Files>
+      <File FileName="AlbumsDB/Program.cs" Line="29" Column="45" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.AlbumsDB PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>

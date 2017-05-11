@@ -1,0 +1,5 @@
+/Users/moonroor/Projects/firstGame/firstGame/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/firstGame/firstGame/bin/Debug/firstGame.exe.mdb
+/Users/moonroor/Projects/firstGame/firstGame/bin/Debug/firstGame.exe
+/Users/moonroor/Projects/firstGame/firstGame/obj/x86/Debug/firstGame.exe
+/Users/moonroor/Projects/firstGame/firstGame/obj/x86/Debug/firstGame.exe.mdb

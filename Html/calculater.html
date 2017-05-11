@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>OUR BEST CALCULATER!</title>
+
+<link href="style.css" type="text/css" rel="stylesheet">
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1.0">
+</head>
+
+<script>
+var memory="";
+var current_num="";
+var operator="";
+var first_num="";
+var second_num="";
+
+function update_screen(current_num){
+  memory+=current_num;
+  document.getElementById('firstid').innerHTML = memory ;
+  second_num=memory;
+}
+function get_op(operatorr){
+  operator=operatorr;
+  first_num=memory;
+  memory=memory+operatorr;
+  document.getElementById('firstid').innerHTML = memory ;
+  memory="";
+}
+function do_eq(){
+result=0;
+  switch (operator) {
+    case '+':
+      result=Number(first_num)+Number(second_num);
+      break;
+      default:
+      result=1;
+    }
+      document.getElementById('firstid').innerHTML = result.toString();
+}
+
+</script>
+
+<body>
+  <h1>CALCULATOR</h1>
+  <h2 id="firstid">our screen</h2>
+
+  <button class="numbers" id="1" onclick="update_screen(1)">1</button>
+  <button class="numbers" id="2" onclick="update_screen(2)">2</button>
+  <button class="numbers" id="3" onclick="update_screen(3)">3</button>
+  <button class="numbers" id="4" onclick="update_screen(4)">4</button>
+  <button class="numbers" id="5" onclick="update_screen(5)">5</button>
+  <button class="numbers" id="6" onclick="update_screen(6)">6</button>
+  <button class="numbers" id="7" onclick="update_screen(7)">7</button>
+  <button class="numbers" id="8" onclick="update_screen(8)">8</button>
+  <button class="numbers" id="9" onclick="update_screen(9)">9</button>
+  <button class="numbers" id="0" onclick="update_screen(0)">0</button>
+  <button class="numbers" id="+" onclick="get_op('+')">+</button>
+  <button class="numbers" id="-" onclick="get_op('-')">-</button>
+  <button class="numbers" id="*" onclick="get_op('*')">*</button>
+  <button class="numbers" id="/" onclick="get_op('/')">/</button>
+  <button class="numbers" id="=" onclick="do_eq('=')">=</button>
+  <button class="numbers" id="/" onclick="update_screen">c</button>
+
+</body>
+
+
+</html>

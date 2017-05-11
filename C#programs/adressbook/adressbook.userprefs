@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{A2250BD4-DD31-40B5-94EC-4A4A223A4569}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="adressbook/Program.cs">
+    <Files>
+      <File FileName="adressbook/Program.cs" Line="94" Column="130" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.adressbook PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

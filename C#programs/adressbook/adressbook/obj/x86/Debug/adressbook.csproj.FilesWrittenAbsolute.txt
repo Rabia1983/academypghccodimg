@@ -1,0 +1,5 @@
+/Users/moonroor/Projects/adressbook/adressbook/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/adressbook/adressbook/bin/Debug/adressbook.exe.mdb
+/Users/moonroor/Projects/adressbook/adressbook/bin/Debug/adressbook.exe
+/Users/moonroor/Projects/adressbook/adressbook/obj/x86/Debug/adressbook.exe
+/Users/moonroor/Projects/adressbook/adressbook/obj/x86/Debug/adressbook.exe.mdb

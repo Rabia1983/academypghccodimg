@@ -1,0 +1,29 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing", "testing\testing.csproj", "{AFEB7570-AD3F-441F-9FA1-A0C5C69B3C76}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libraryfile", "libraryfile\libraryfile.csproj", "{6860C915-C079-4722-9C7D-CECF5F08F7FB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "thethirdfile", "thethirdfile\thethirdfile.csproj", "{DC049610-A998-4284-AB64-1D9083FC9333}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFEB7570-AD3F-441F-9FA1-A0C5C69B3C76}.Debug|x86.ActiveCfg = Debug|x86
+		{AFEB7570-AD3F-441F-9FA1-A0C5C69B3C76}.Debug|x86.Build.0 = Debug|x86
+		{AFEB7570-AD3F-441F-9FA1-A0C5C69B3C76}.Release|x86.ActiveCfg = Release|x86
+		{AFEB7570-AD3F-441F-9FA1-A0C5C69B3C76}.Release|x86.Build.0 = Release|x86
+		{6860C915-C079-4722-9C7D-CECF5F08F7FB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6860C915-C079-4722-9C7D-CECF5F08F7FB}.Debug|x86.Build.0 = Debug|Any CPU
+		{6860C915-C079-4722-9C7D-CECF5F08F7FB}.Release|x86.ActiveCfg = Release|Any CPU
+		{6860C915-C079-4722-9C7D-CECF5F08F7FB}.Release|x86.Build.0 = Release|Any CPU
+		{DC049610-A998-4284-AB64-1D9083FC9333}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{DC049610-A998-4284-AB64-1D9083FC9333}.Debug|x86.Build.0 = Debug|Any CPU
+		{DC049610-A998-4284-AB64-1D9083FC9333}.Release|x86.ActiveCfg = Release|Any CPU
+		{DC049610-A998-4284-AB64-1D9083FC9333}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

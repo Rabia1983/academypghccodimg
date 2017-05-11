@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{8BD29E50-9EE7-4CD0-8FA9-EA92D6BC2A6A}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="soccerleague/Program.cs">
+    <Files>
+      <File FileName="soccerleague/Program.cs" Line="123" Column="19" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.soccerleague PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,11 @@
+<p>
+  <strong>Title:</strong>
+  <%= @postit.title %>
+</p>
+
+<p>
+  <strong>Text:</strong>
+  <%= @postit.text %>
+</p>
+<%= link_to'Edit',edit_postit_path(@postit)%>
+<%= link_to 'back',postits_path %>

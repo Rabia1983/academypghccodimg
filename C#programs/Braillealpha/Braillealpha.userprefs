@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{7B732D4D-E034-4D97-8D91-65FD24385E20}|Default">
+  <MonoDevelop.Ide.ItemProperties.Braillealpha PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Braillealpha/Program.cs">
+    <Files>
+      <File FileName="Braillealpha/Program.cs" Line="239" Column="4" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,5 @@
+/Users/moonroor/Projects/messagesystem/messagesystem/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/moonroor/Projects/messagesystem/messagesystem/bin/Debug/messagesystem.exe.mdb
+/Users/moonroor/Projects/messagesystem/messagesystem/bin/Debug/messagesystem.exe
+/Users/moonroor/Projects/messagesystem/messagesystem/obj/x86/Debug/messagesystem.exe
+/Users/moonroor/Projects/messagesystem/messagesystem/obj/x86/Debug/messagesystem.exe.mdb
